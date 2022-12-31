@@ -1,3 +1,2 @@
 # gitdemo
- This is a git demo file
- hi
+ This is changes in B.
